@@ -1,0 +1,39 @@
+
+
+#Wrapper{
+		width:90%;
+		height:600px;
+		margin:0 auto;
+}
+
+.head{
+	height: 50px;
+	background-color: purple;
+}
+
+.sidebar{
+	width: 15%;
+	float: left;
+	background: pink;
+	height: 550px;
+}
+
+.main{
+	width:85;
+	float: left;
+	background-color:blue;
+	height: 700px;
+	width: 700px;
+
+}
+
+}
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+.clear{
+	clear:both;
+}
